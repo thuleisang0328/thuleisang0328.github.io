@@ -25,41 +25,14 @@ In *Applied Energy*
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/IEEE_TVT_TCNN_500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
-Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
+[**An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model**](https://ieeexplore.ieee.org/document/10185086) \\
+**Nuo Lei**, Hao Zhang, Hong Wang, Zhi Wang \\
+In *IEEE Transactions on Vehicular Technology*
 
-[**Project**](https://boostprompt.github.io/boostprompt/) 
-  - This work has been deployed on many TikTok products.
-  - Advandced zero-shot voice cloning model.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
-
-- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
-- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
-
-- [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
-
-[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
+- We proposes a novel co-optimization methodology that incorporates the high-fidelity model (HFM) of plug-in hybrid electric vehicles (PHEVs). In addition, based on the Pareto optimization method, an adaptive non-dominated sorting genetic algorithm-III (NSGA-III) with chaos sequence (NSGA-CS) is proposed. These results suggest that the novel co-optimization methodology proposed in this paper is effective in optimizing the powertrain parameters and control strategies and can further promote the energy-saving potential of HEV/PHEVs.
 </div>
 </div>
 
