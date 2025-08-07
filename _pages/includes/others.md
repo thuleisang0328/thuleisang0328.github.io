@@ -4,4 +4,5 @@
 - *2011.09 - 2017.07*, Beijing No.80 High School, Beijing, China.
 
 # 💻 Internships
-- *2023.06 - 2023.09*, Bosch XC, Shanghai, China.
+- *2023.06 - 2023.09*, Engineer, Electric Stability Controller, Bosch XC, Shanghai, China.
+- *2023.02 - 2023.06*, Teaching assistant, Fundamentals of Automotive Powertrains, Tsinghua University, Beijing, China.
