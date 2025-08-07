@@ -61,5 +61,18 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
 
-# 📝 Selected Papers
-**Lei N**, Zhang H, and Wang Z. A comprehensive study of various carbon-free vehicle propulsion systems utilizing ammonia-hydrogen synergy fuel. eTransportation, 2024,20:100332.
+# 🔎 Selected Papers
+- Zhang H, Xu J, **Lei N** (Corresponding Author), et al. Surrogate-enhanced multi-objective optimization of on-board hydrogen production device for carbon-free heavy-duty vehicles. *Energy*, 2025, 333:137369.
+- Zhang H, **Lei N**, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. *IEEE Transactions on Intelligent Transportation Systems*, 2025, Early Access.
+- **Lei N**, Zhang H, Hu J, et al. Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles. *Applied Energy*, 2025, 393:126030.
+- **Lei N**, Zhang H, Wang H, et al. Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling. *IEEE Transactions on Vehicular Technology*, 2025, 74:8907-8920.
+- Zhang H, **Lei N**, Chen B, et al. Modeling and control system optimization for electrified vehicles: A data-driven approach. *Energy*, 2024, 311:133196.
+- Zhang H, Chen B, **Lei N**, et al. Coupled velocity and energy management optimization of connected hybrid electric vehicles for maximum collective efficiency. *Applied Energy*, 2024, 360:122792.
+- Zhang H, Chen B, **Lei N**, et al. Integrated thermal and energy management of connected hybrid electric vehicles using deep reinforcement learning. *IEEE Transactions on Transportation Electrification*, 2024, 10:4594-4603.
+- **Lei N**, Zhang H, and Wang Z. A comprehensive study of various carbon-free vehicle propulsion systems utilizing ammonia-hydrogen synergy fuel. *eTransportation*, 2024, 20:100332.
+- Zhang H, **Lei N**, Wang Z. Ammonia-hydrogen propulsion system for carbon-free heavy-duty vehicles. *Applied Energy*, 2024, 369:123505.
+- **Lei N**, Zhang H, Li R, et al. Physics-informed data-driven modeling approach for commuting-oriented hybrid powertrain optimization. *Energy Conversion and Management*, 2024, 299:117814.
+- Zhang H, **Lei N**, Chen B, et al. Data-driven predictive energy consumption minimization strategy for connected plug-in hybrid electric vehicles. *Energy*, 2023, 283:128514.
+- **Lei N**, Zhang H, Wang H, et al. An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model. *IEEE Transactions on Vehicular Technology*, 2023, 72:15585-15596.
+- Zhang H, Liu S, **Lei N**, et al. Learning-based supervisory control of dual mode engine-based hybrid electric vehicle with reliance on multivariate trip information. *Energy Conversion and Management*, 2022, 257:115450.
+More publications can be found on my Google Scholar homepage.
