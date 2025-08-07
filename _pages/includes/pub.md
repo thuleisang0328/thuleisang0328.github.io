@@ -25,7 +25,7 @@ In *Applied Energy*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/IEEE_TVT_TCNN_500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/TVT_improved.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model**](https://ieeexplore.ieee.org/document/10185086) \\
