@@ -75,4 +75,4 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - Zhang H, **Lei N**, Chen B, et al. Data-driven predictive energy consumption minimization strategy for connected plug-in hybrid electric vehicles. *Energy*, 2023, 283:128514.
 - **Lei N**, Zhang H, Wang H, et al. An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model. *IEEE Transactions on Vehicular Technology*, 2023, 72:15585-15596.
 - Zhang H, Liu S, **Lei N**, et al. Learning-based supervisory control of dual mode engine-based hybrid electric vehicle with reliance on multivariate trip information. *Energy Conversion and Management*, 2022, 257:115450.
-More publications can be found on my Google Scholar homepage.
+- More publications can be found on my [Google Scholar homepage](https://thuleisang0328.github.io/thuleisang.github.io/) or [ResearchGate homepage](https://www.researchgate.net/profile/Nuo-Lei-2).
