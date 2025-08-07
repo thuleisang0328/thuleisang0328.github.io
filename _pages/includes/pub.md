@@ -1,7 +1,4 @@
-
-# 📝 Publications
-
-
+# 📝 Featured Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,3 +62,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
 </div>
 </div>
+
+# 📝 Featured Publications
+**Lei N**, Zhang H, and Wang Z. A comprehensive study of various carbon-free vehicle propulsion systems utilizing ammonia-hydrogen synergy fuel. eTransportation, 2024,20:100332.
