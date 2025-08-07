@@ -21,7 +21,7 @@ In *Applied Energy*
 
 [**Industrial collaborator: Hybot**](http://www.hybot.com.cn/)
 
-- We designed an RL-based EMS development toolchain that integrates advanced algorithms with high-fidelity vehicle models based on the General Optimal control Problems Solver (GOPS) platform, leveraging Python-MATLAB/Simulink co-simulation for agent training across Model-in-the-Loop (MiL), Hardware-in-the-Loop (HiL), and Vehicle-in-the-Loop (ViL) stages. The proposed toolchain provides a robust foundation for real-vehicle applications of RL-based EMSs.
+- We designed a reinforcement learning-based energy management strategy (RL-based EMS) development toolchain that integrates advanced algorithms with high-fidelity vehicle models based on the General Optimal control Problems Solver (GOPS) platform, leveraging Python-MATLAB/Simulink co-simulation for agent training across Model-in-the-Loop (MiL), Hardware-in-the-Loop (HiL), and Vehicle-in-the-Loop (ViL) stages. The proposed toolchain provides a robust foundation for real-vehicle applications of RL-based EMSs.
 </div>
 </div>
 
