@@ -32,7 +32,7 @@ In *Applied Energy*
 **Nuo Lei**, Hao Zhang, Hong Wang, Zhi Wang \\
 In *IEEE Transactions on Vehicular Technology*
 
-- We proposes a novel co-optimization methodology that incorporates the high-fidelity model (HFM) of plug-in hybrid electric vehicles (PHEVs). In addition, based on the Pareto optimization method, an adaptive non-dominated sorting genetic algorithm-III (NSGA-III) with chaos sequence (NSGA-CS) is proposed. These results suggest that the novel co-optimization methodology proposed in this paper is effective in optimizing the powertrain parameters and control strategies and can further promote the energy-saving potential of HEV/PHEVs.
+- We proposed a novel co-optimization methodology that incorporates the high-fidelity model (HFM) of plug-in hybrid electric vehicles (PHEVs). In addition, based on the Pareto optimization method, an adaptive non-dominated sorting genetic algorithm-III (NSGA-III) with chaos sequence (NSGA-CS) is proposed. These results suggest that the novel co-optimization methodology proposed in this paper is effective in optimizing the powertrain parameters and control strategies and can further promote the energy-saving potential of HEV/PHEVs.
 </div>
 </div>
 
