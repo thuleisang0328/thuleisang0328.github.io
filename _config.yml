@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Nuo Lei (雷诺)"
-description              : "Ph.D. Candidate <br>Tsinghua University"
+description              : ""
 repository               : "thuleisang0328/thuleisang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :
 author:
   name             : "Nuo Lei (雷诺)"
   avatar           : "images/LNpic_new.png"
-  bio              : ""
+  bio              : "Ph.D. Candidate <br>Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
