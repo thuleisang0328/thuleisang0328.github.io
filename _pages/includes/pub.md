@@ -12,14 +12,16 @@ In *IEEE Transactions on Vehicular Technology*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy</div><img src='images/APEN_RLECMS_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[**Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles**](https://www.sciencedirect.com/science/article/abs/pii/S0306261925007603) \\
+**Nuo Lei**, Hao Zhang, Jingjing Hu, Zunyan Hu, Zhi Wang \\
+In *Applied Energy*
 
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
+[**Industrial collaborator: Hybot**](http://www.hybot.com.cn/)
+
+- We designed an RL-based EMS development toolchain that integrates advanced algorithms with high-fidelity vehicle models based on the General Optimal control Problems Solver (GOPS) platform, leveraging Python-MATLAB/Simulink co-simulation for agent training across Model-in-the-Loop (MiL), Hardware-in-the-Loop (HiL), and Vehicle-in-the-Loop (ViL) stages. The proposed toolchain provides a robust foundation for real-vehicle applications of RL-based EMSs.
 </div>
 </div>
 
