@@ -6,7 +6,7 @@
 \\**Nuo Lei**, Hao Zhang, Hong Wang, Zunyan Hu, Hu Chen, Jingjing Hu, Zhi Wang
 \\In *IEEE Transactions on Vehicular Technology*
 
-[**Industrial collaborator: Hybot**](http://www.hybot.com.cn/) <strong>
+[**Industrial collaborator: Hybot**](http://www.hybot.com.cn/)
 
 - We proposed a theory-constrained neural network (TCNN) that integrates physical principles without sacrificing accuracy. A theory-guided filter ensures sub-module interpretability, and sub-networks are individually trained under theoretical constraints with a CNN-BiLSTM-MHSA architecture enhances overall accuracy. Results demonstrate significant improvements in fitting accuragy for fuel cell modeling.
 </div>
