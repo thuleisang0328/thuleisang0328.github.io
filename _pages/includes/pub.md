@@ -3,8 +3,8 @@
 <div class='paper-box-text' markdown="1">
 
 [Theory-Constrained Neural Network with Modular Interpretability for Fuel Cell Vehicle Modelling](https://ieeexplore.ieee.org/document/10852019) <strong>
-\\**Nuo Lei**, Hao Zhang, Hong Wang, Zunyan Hu, Hu Chen, Jingjing Hu, Zhi Wang
-\\In *IEEE Transactions on Vehicular Technology*
+\**Nuo Lei**, Hao Zhang, Hong Wang, Zunyan Hu, Hu Chen, Jingjing Hu, Zhi Wang
+\In *IEEE Transactions on Vehicular Technology*
 
 [**Industrial collaborator: Hybot**](http://www.hybot.com.cn/) <strong>
 
