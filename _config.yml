@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Nuo Lei (雷诺)"
+title                    : "Nuo Lei"
 description              : ""
 repository               : "thuleisang0328/thuleisang.github.io"
 google_scholar_stats_use_cdn : true
