@@ -28,7 +28,7 @@ In *Applied Energy*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/TVT_improved.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model**](https://ieeexplore.ieee.org/document/10185086) \\
+[**An Improved Co-Optimization of Component Sizing and Energy Management for Hybrid Powertrains Interacting With High-fidelity Model**](https://ieeexplore.ieee.org/document/10185086) \\
 **Nuo Lei**, Hao Zhang, Hong Wang, Zhi Wang \\
 In *IEEE Transactions on Vehicular Technology*
 
@@ -37,6 +37,7 @@ In *IEEE Transactions on Vehicular Technology*
 </div>
 
 # 🔎 Selected Papers
+- Zhang H, Yang G, **Lei N*** (Corresponding author), et al. Scenario-aware electric vehicle energy control with enhanced vehicle-to-grid capability: A multi-task reinforcement learning approach. *Energy*, 2025, 335:138189.
 - Zhang H, Xu J, **Lei N*** (Corresponding author), et al. Surrogate-enhanced multi-objective optimization of on-board hydrogen production device for carbon-free heavy-duty vehicles. *Energy*, 2025, 333:137369.
 - Zhang H, **Lei N**, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. *IEEE Transactions on Intelligent Transportation Systems*, 2025, Early Access.
 - **Lei N**, Zhang H, Hu J, et al. Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles. *Applied Energy*, 2025, 393:126030.
@@ -48,6 +49,6 @@ In *IEEE Transactions on Vehicular Technology*
 - Zhang H, **Lei N**, Wang Z. Ammonia-hydrogen propulsion system for carbon-free heavy-duty vehicles. *Applied Energy*, 2024, 369:123505.
 - **Lei N**, Zhang H, Li R, et al. Physics-informed data-driven modeling approach for commuting-oriented hybrid powertrain optimization. *Energy Conversion and Management*, 2024, 299:117814.
 - Zhang H, **Lei N**, Chen B, et al. Data-driven predictive energy consumption minimization strategy for connected plug-in hybrid electric vehicles. *Energy*, 2023, 283:128514.
-- **Lei N**, Zhang H, Wang H, et al. An improved co-optimization of component sizing and energy management for hybrid powertrains with high-fidelity model. *IEEE Transactions on Vehicular Technology*, 2023, 72:15585-15596.
+- **Lei N**, Zhang H, Wang H, et al. An Improved Co-Optimization of Component Sizing and Energy Management for Hybrid Powertrains Interacting With High-fidelity Model. *IEEE Transactions on Vehicular Technology*, 2023, 72:15585-15596.
 - Zhang H, Liu S, **Lei N**, et al. Learning-based supervisory control of dual mode engine-based hybrid electric vehicle with reliance on multivariate trip information. *Energy Conversion and Management*, 2022, 257:115450.
 - More publications can be found on my [Google Scholar](https://thuleisang0328.github.io/thuleisang.github.io/) or [ResearchGate](https://www.researchgate.net/profile/Nuo-Lei-2).
