@@ -1,10 +1,12 @@
 # 📚 Reviewers
 - Journal, *Renewable and Sustainable Energy Reviews*, (IF=16.3, Q1)
 - Journal, *Applied Energy*, (IF=11.0, Q1)
+- Journal, *Advanced Engineering Informatics*, (IF=9.9, Q1)
 - Journal, *Journal of Energy Storage*, (IF=9.8, Q1)
 - Journal, *Engineering Applications of Artificial Intelligence*, (IF=8.0, Q1)
 - Journal, *Scientific Reports*, (IF=3.9, Q1)
 - Journal, *PLoS One*, (IF=2.6, Q1)
+- Journal, *Discover Computing*, (IF=1.7, Q3)
 
 # 📖 Educations
 - *2021.09 - Now*, Ph.D. Candidate, School of Vehicle and Mobility, Tsinghua University, Beijing, China.
