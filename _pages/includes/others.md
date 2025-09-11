@@ -9,6 +9,7 @@
 - Journal, *Scientific Reports*, (IF=3.9, Q1)
 - Journal, *PLoS One*, (IF=2.6, Q1)
 - Journal, *Discover Computing*, (IF=1.7, Q3)
+- Journal, *Iranian Journal of Science and Technology-Transactions of Electrical Engineering*, (IF=1.4, Q3)
 
 # 📖 Educations
 - *2021.09 - Now*, Ph.D. Candidate, School of Vehicle and Mobility, Tsinghua University, Beijing, China.
