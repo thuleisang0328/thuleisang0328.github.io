@@ -4,6 +4,8 @@
 - Journal, *Advanced Engineering Informatics*, (IF=9.9, Q1)
 - Journal, *Journal of Energy Storage*, (IF=9.8, Q1)
 - Journal, *Engineering Applications of Artificial Intelligence*, (IF=8.0, Q1)
+- Journal, *Transportation Research Part D: Transport and Environment*, (IF=7.7, Q1)
+- Journal, *Energy Reports*, (IF=5.1, Q1)
 - Journal, *Scientific Reports*, (IF=3.9, Q1)
 - Journal, *PLoS One*, (IF=2.6, Q1)
 - Journal, *Discover Computing*, (IF=1.7, Q3)
