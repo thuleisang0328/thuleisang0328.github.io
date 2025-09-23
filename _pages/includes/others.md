@@ -1,15 +1,17 @@
 # 📚 Reviewers
-- Journal, *Renewable and Sustainable Energy Reviews*, (IF=16.3, Q1)
-- Journal, *Applied Energy*, (IF=11.0, Q1)
-- Journal, *Advanced Engineering Informatics*, (IF=9.9, Q1)
-- Journal, *Journal of Energy Storage*, (IF=9.8, Q1)
-- Journal, *Engineering Applications of Artificial Intelligence*, (IF=8.0, Q1)
-- Journal, *Transportation Research Part D: Transport and Environment*, (IF=7.7, Q1)
-- Journal, *Energy Reports*, (IF=5.1, Q1)
-- Journal, *Scientific Reports*, (IF=3.9, Q1)
-- Journal, *PLoS One*, (IF=2.6, Q1)
-- Journal, *Discover Computing*, (IF=1.7, Q3)
-- Journal, *Iranian Journal of Science and Technology-Transactions of Electrical Engineering*, (IF=1.4, Q3)
+- Journal, *Renewable and Sustainable Energy Reviews*, (JCR Q1, IF=16.3)
+- Journal, *Applied Energy*, (JCR Q1, IF=11.0)
+- Journal, *Advanced Engineering Informatics*, (JCR Q1, IF=9.9)
+- Journal, *Journal of Energy Storage*, (JCR Q1, IF=9.8)
+- Journal, *IEEE Transactions on Intelligent Transportation Systems*, (JCR Q1, IF=8.4)
+- Journal, *International Journal of Hydrogen Energy*, (JCR Q1, IF=8.3)
+- Journal, *Engineering Applications of Artificial Intelligence*, (JCR Q1, IF=8.0)
+- Journal, *Transportation Research Part D: Transport and Environment*, (JCR Q1, IF=7.7)
+- Journal, *Scientific Reports*, (JCR Q1, IF=3.9)
+- Journal, *Energy Reports*, (JCR Q2, IF=5.1)
+- Journal, *PLoS One*, (JCR Q2, IF=2.6)
+- Journal, *Discover Computing*, (JCR Q3, IF=1.7)
+- Journal, *Iranian Journal of Science and Technology-Transactions of Electrical Engineering*, (JCR Q3, IF=1.4)
 
 # 📖 Educations
 - *2021.09 - Now*, Ph.D. Candidate, School of Vehicle and Mobility, Tsinghua University, Beijing, China.
