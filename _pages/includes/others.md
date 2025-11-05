@@ -10,6 +10,7 @@
 - Journal, *Energy Reports*, (JCR Q2, IF=5.1)
 - Journal, *Control Engineering Practice*, (JCR Q1, IF=4.6)
 - Journal, *Scientific Reports*, (JCR Q1, IF=3.9)
+- Journal, *International Journal of Data Science and Analytics*, (JCR Q2, IF=2.8)
 - Journal, *PLoS One*, (JCR Q2, IF=2.6)
 - Journal, *Discover Computing*, (JCR Q3, IF=1.7)
 - Journal, *Iranian Journal of Science and Technology-Transactions of Electrical Engineering*, (JCR Q3, IF=1.4)
