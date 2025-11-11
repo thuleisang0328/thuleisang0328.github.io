@@ -3,6 +3,7 @@
 - Journal, *Applied Energy*, (JCR Q1, IF=11.0)
 - Journal, *Advanced Engineering Informatics*, (JCR Q1, IF=9.9)
 - Journal, *Journal of Energy Storage*, (JCR Q1, IF=9.8)
+- Journal, *Energy*, (JCR Q1, IF=9.4)
 - Journal, *IEEE Transactions on Intelligent Transportation Systems*, (JCR Q1, IF=8.4)
 - Journal, *International Journal of Hydrogen Energy*, (JCR Q1, IF=8.3)
 - Journal, *Engineering Applications of Artificial Intelligence*, (JCR Q1, IF=8.0)
