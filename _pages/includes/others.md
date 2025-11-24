@@ -1,6 +1,7 @@
 # 📚 Reviewers
 - Journal, *Renewable and Sustainable Energy Reviews*, (JCR Q1, IF=16.3)
 - Journal, *Applied Energy*, (JCR Q1, IF=11.0)
+- Journal, *Journal of Cleaner Production*, (JCR Q1, IF=10.0)
 - Journal, *Advanced Engineering Informatics*, (JCR Q1, IF=9.9)
 - Journal, *Journal of Energy Storage*, (JCR Q1, IF=9.8)
 - Journal, *Energy*, (JCR Q1, IF=9.4)
@@ -8,6 +9,7 @@
 - Journal, *International Journal of Hydrogen Energy*, (JCR Q1, IF=8.3)
 - Journal, *Engineering Applications of Artificial Intelligence*, (JCR Q1, IF=8.0)
 - Journal, *Transportation Research Part D: Transport and Environment*, (JCR Q1, IF=7.7)
+- Journal, *Energy Conversion and Management: X*, (JCR Q1, IF=7.6)
 - Journal, *Energy Reports*, (JCR Q2, IF=5.1)
 - Journal, *Control Engineering Practice*, (JCR Q1, IF=4.6)
 - Journal, *Scientific Reports*, (JCR Q1, IF=3.9)
