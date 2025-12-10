@@ -10,6 +10,8 @@
 - Journal, *Engineering Applications of Artificial Intelligence*, (JCR Q1, IF=8.0)
 - Journal, *Transportation Research Part D: Transport and Environment*, (JCR Q1, IF=7.7)
 - Journal, *Energy Conversion and Management: X*, (JCR Q1, IF=7.6)
+- Journal, *IEEE/ASME Transactions on Mechatronics*, (JCR Q1, IF=7.3)
+- Journal, *Sustainable Energy Technologies and Assessments*, (JCR Q2, IF=7.0)
 - Journal, *Energy Reports*, (JCR Q2, IF=5.1)
 - Journal, *Control Engineering Practice*, (JCR Q1, IF=4.6)
 - Journal, *Scientific Reports*, (JCR Q1, IF=3.9)
