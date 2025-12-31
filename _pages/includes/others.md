@@ -1,4 +1,5 @@
 # 📚 Reviewers
+Independent reviewer for 22 SCI-indexed journals.
 - Journal, *Renewable and Sustainable Energy Reviews*, (JCR Q1, IF=16.3)
 - Journal, *Applied Energy*, (JCR Q1, IF=11.0)
 - Journal, *Journal of Cleaner Production*, (JCR Q1, IF=10.0)
@@ -12,12 +13,14 @@
 - Journal, *Energy Conversion and Management: X*, (JCR Q1, IF=7.6)
 - Journal, *IEEE/ASME Transactions on Mechatronics*, (JCR Q1, IF=7.3)
 - Journal, *Sustainable Energy Technologies and Assessments*, (JCR Q2, IF=7.0)
+- Journal, *IEEE Transactions on Emerging Topics in Computational Intelligence*, (JCR Q1, IF=6.5)
 - Journal, *Energy Reports*, (JCR Q2, IF=5.1)
 - Journal, *Control Engineering Practice*, (JCR Q1, IF=4.6)
 - Journal, *Scientific Reports*, (JCR Q1, IF=3.9)
 - Journal, *International Journal of Data Science and Analytics*, (JCR Q2, IF=2.8)
 - Journal, *PLoS One*, (JCR Q2, IF=2.6)
 - Journal, *Discover Computing*, (JCR Q3, IF=1.7)
+- Journal, *CMC-Computers Materials & Continua*, (JCR Q3, IF=1.7)
 - Journal, *Iranian Journal of Science and Technology-Transactions of Electrical Engineering*, (JCR Q3, IF=1.4)
 
 # 📖 Educations
