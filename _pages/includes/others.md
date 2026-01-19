@@ -1,8 +1,9 @@
 # 📚 Reviewers
-Independent reviewer for 25 SCI-indexed journals.
+Independent reviewer for 26 SCI-indexed journals.
 - Journal, *Renewable and Sustainable Energy Reviews*, (JCR Q1, IF=16.3)
 - Journal, *Applied Energy*, (JCR Q1, IF=11.0)
 - Journal, *Journal of Cleaner Production*, (JCR Q1, IF=10.0)
+- Journal, *IEEE Transactions on Industrial Informatics*, (JCR Q1, IF=9.9)
 - Journal, *Advanced Engineering Informatics*, (JCR Q1, IF=9.9)
 - Journal, *Journal of Energy Storage*, (JCR Q1, IF=9.8)
 - Journal, *Energy*, (JCR Q1, IF=9.4)
