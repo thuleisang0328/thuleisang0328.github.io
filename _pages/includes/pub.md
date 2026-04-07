@@ -37,6 +37,8 @@ In *IEEE Transactions on Vehicular Technology*
 </div>
 
 # 🔎 Selected Papers
+- **Lei N**, Zhang H, Pang Z, et al. Physics-informed surrogate-assisted co-optimization of fuel cell electric vehicle powertrain and energy management for long-haul heavy-duty applications. *Applied Energy*, 2026, 414:127828.
+- Ding M, Li Y, Chen C, **Lei N*** (Corresponding author), et al. Learning-Augmented Optimization and Control of Long-Haul Mobility Propulsion Systems. *iScience*, 2026, 115579.
 - Zhang H, Yang G, **Lei N*** (Corresponding author), et al. Scenario-aware electric vehicle energy control with enhanced vehicle-to-grid capability: A multi-task reinforcement learning approach. *Energy*, 2025, 335:138189.
 - Zhang H, Xu J, **Lei N*** (Corresponding author), et al. Surrogate-enhanced multi-objective optimization of on-board hydrogen production device for carbon-free heavy-duty vehicles. *Energy*, 2025, 333:137369.
 - Zhang H, **Lei N**, Chen B, et al. Bi-level transfer learning for lifelong intelligent energy management of electric vehicles. *IEEE Transactions on Intelligent Transportation Systems*, 2025, Early Access.
