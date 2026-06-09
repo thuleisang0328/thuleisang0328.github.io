@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2025.11*, Comprehensive Excellence Scholarship, Tsinghua University
 - *2025.07*, High-Level Academic Report at the Doctoral Academic Forum, CSAE
 - *2024.04*, Top 10 Outstanding Paper of WICE, CSICE
 - *2024.11*, Comprehensive Excellence Scholarship, Tsinghua University
