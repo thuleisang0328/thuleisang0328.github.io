@@ -1,5 +1,6 @@
 # 📚 Reviewers
-Independent reviewer for 28 SCI-indexed journals.
+Independent reviewer for 30 SCI-indexed journals.
+- Journal, *eTransportation*, (JCR Q1, IF=17.0)
 - Journal, *Renewable and Sustainable Energy Reviews*, (JCR Q1, IF=16.3)
 - Journal, *Applied Energy*, (JCR Q1, IF=11.0)
 - Journal, *Journal of Cleaner Production*, (JCR Q1, IF=10.0)
@@ -18,6 +19,7 @@ Independent reviewer for 28 SCI-indexed journals.
 - Journal, *IEEE Transactions on Emerging Topics in Computational Intelligence*, (JCR Q1, IF=6.5)
 - Journal, *Engineering Science and Technology, an International Journal*, (JCR Q1, IF=5.4)
 - Journal, *Energy Reports*, (JCR Q2, IF=5.1)
+- Journal, *Sustainable Futures*, (JCR Q1, IF=4.9)
 - Journal, *Control Engineering Practice*, (JCR Q1, IF=4.6)
 - Journal, *Scientific Reports*, (JCR Q1, IF=3.9)
 - Journal, *IEEE Access*, (JCR Q2, IF=3.6)
