@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.06*: 🎉 I successfully completed my doctoral dissertation defense and was awarded a Doctor of Philosophy (Ph.D.) degree.
+- *2026.06*: 🎉 I defended my doctoral dissertation and was awarded a Doctor of Philosophy (Ph.D.) degree.
 - *2026.04*: Our paper [Physics-informed surrogate-assisted co-optimization of fuel cell electric vehicle powertrain and energy management for long-haul heavy-duty applications](https://www.sciencedirect.com/science/article/abs/pii/S0306261926004800) was published in *Applied Energy* (JCR Q1, IF=11.0).
 - *2026.04*: Our paper [Learning-Augmented Optimization and Control of Long-Haul Mobility Propulsion Systems](https://www.cell.com/iscience/fulltext/S2589-0042(26)00954-5) was published in *iScience* (JCR Q1, IF=4.1).
 - *2026.02*: 🎉 Our paper [Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0306261925007603) has been recognized by Essential Science Indicators (ESI) as a Top 1% publication and has been selected as both an ESI Highly Cited Paper and an ESI Hot Paper.
