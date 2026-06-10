@@ -17,7 +17,7 @@ In *IEEE Transactions on Vehicular Technology*
 
 [**Sim-to-real design and development of reinforcement learning-based energy management strategies for fuel cell electric vehicles**](https://www.sciencedirect.com/science/article/abs/pii/S0306261925007603) \\
 **Nuo Lei**, Hao Zhang, Jingjing Hu, Zunyan Hu, Zhi Wang \\
-In *Applied Energy* (**ESI Highly Cited Papers**)
+In *Applied Energy* (**ESI Highly Cited Paper**)
 
 [**Industrial collaborator: Hybot**](http://www.hybot.com.cn/)
 
