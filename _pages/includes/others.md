@@ -1,5 +1,5 @@
 # 📚 Reviewers
-Independent reviewer for 35 SCI-indexed journals.
+Independent reviewer for 37 SCI-indexed journals.
 - Journal, *eTransportation*, (JCR Q1, IF=17.0)
 - Journal, *Renewable and Sustainable Energy Reviews*, (JCR Q1, IF=16.3)
 - Journal, *Applied Energy*, (JCR Q1, IF=11.0)
@@ -25,7 +25,9 @@ Independent reviewer for 35 SCI-indexed journals.
 - Journal, *Energy Reports*, (JCR Q2, IF=5.1)
 - Journal, *Sustainable Futures*, (JCR Q1, IF=4.9)
 - Journal, *Control Engineering Practice*, (JCR Q1, IF=4.6)
+- Journal, *Journal of Marine Engineering and Technology*, (JCR Q1, IF=4.2)
 - Journal, *Scientific Reports*, (JCR Q1, IF=3.9)
+- Journal, *Results in Control and Optimization*, (JCR Q1, IF=3.8)
 - Journal, *IEEE Access*, (JCR Q2, IF=3.6)
 - Journal, *Vehicles*, (JCR Q2, IF=3.2)
 - Journal, *Current Bioinformatics*, (JCR Q2, IF=2.9)
@@ -36,11 +38,12 @@ Independent reviewer for 35 SCI-indexed journals.
 - Journal, *Computational Intelligence*, (JCR Q3, IF=1.7)
 - Journal, *Iranian Journal of Science and Technology-Transactions of Electrical Engineering*, (JCR Q3, IF=1.4)
 
-# 📖 Educations
-- *2021.09 - Now*, Ph.D. Candidate, School of Vehicle and Mobility, Tsinghua University, Beijing, China.
+# 📖 Education and Employment
+- *2026.08 - now*, Research fellow, Department of Electrical & Computer Engineering, National University of Singapore, Singapore.
+- *2021.09 - 2026.07*, Doctor of Philosophy, School of Vehicle and Mobility, Tsinghua University, Beijing, China.
 - *2017.09 - 2021.07*, Undergraduate, Xu Teli School, Beijing Institute of Technology, Beijing, China.
 - *2011.09 - 2017.07*, Beijing No.80 High School, Beijing, China.
 
-# 💻 Internships
+# 💻 Internship
 - *2023.06 - 2023.09*, Engineer, Electric Stability Controller, Bosch XC, Shanghai, China.
 - *2023.02 - 2023.06*, Teaching assistant, Fundamentals of Automotive Powertrains, Tsinghua University, Beijing, China.
