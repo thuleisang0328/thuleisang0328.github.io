@@ -1,5 +1,5 @@
 # 📚 Reviewers
-Independent reviewer for 39 SCI-indexed journals.
+Independent reviewer for 40 SCI-indexed journals.
 - Journal, *eTransportation*, (JCR Q1, IF=17.0)
 - Journal, *Renewable and Sustainable Energy Reviews*, (JCR Q1, IF=16.3)
 - Journal, *Applied Energy*, (JCR Q1, IF=11.0)
@@ -39,6 +39,7 @@ Independent reviewer for 39 SCI-indexed journals.
 - Journal, *CMC-Computers Materials & Continua*, (JCR Q3, IF=1.7)
 - Journal, *Computational Intelligence*, (JCR Q3, IF=1.7)
 - Journal, *Iranian Journal of Science and Technology-Transactions of Electrical Engineering*, (JCR Q3, IF=1.4)
+- Journal, *Journal of Circuits, Systems, and Computers*, (JCR Q4, IF=1.0)
 
 # 📖 Education and Employment
 - *2026.08 - now*, Research fellow, Department of Electrical & Computer Engineering, National University of Singapore, Singapore.
