@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Nuo Lei"
-description              : ""
+description              : "Research Fellow"
 repository               : "thuleisang0328/thuleisang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :
 author:
   name             : "Nuo Lei"
   avatar           : "images/LNpic_new.png"
-  bio              : "Doctor of Philosophy (Ph.D.) <br>Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Doctor of Philosophy (Ph.D.) <br>National University of Singapore <br>Tsinghua University"
+  location         : "Singapore" <br>"Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=Rgm40p8AAAAJ"
