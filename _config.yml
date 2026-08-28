@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 title                    : "Nuo Lei"
 description              : "Research Fellow"
@@ -23,11 +16,11 @@ baidu_site_verification  :
 author:
   name             : "Nuo Lei"
   avatar           : "images/LNpic_new.png"
-  bio              : "Doctor of Philosophy (Ph.D.) <br>National University of Singapore <br>Tsinghua University"
-  location         : "Singapore" <br>"Beijing, China"
-  employer         :
+  bio              : "Research Fellow <br>National University of Singapore <br>Ph.D., Tsinghua University"
+  location         : "Singapore"
+  employer         : "National University of Singapore"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=Rgm40p8AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Rgm40p8AAAAJ"
   email            : "lein21@mails.tsinghua.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Nuo-Lei-2"
   uri              :
@@ -41,14 +34,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  impactstory      :
   linkedin         : 
   dblp             : 
   orcid            : "https://orcid.org/0000-0001-8731-7497"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
