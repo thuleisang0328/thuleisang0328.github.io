@@ -1,5 +1,5 @@
 # 👨‍🎓 Introduction
-I received my Ph.D. in June 2026 from the [School of Vehicle and Mobility](https://www.svm.tsinghua.edu.cn/) and the [State Key Laboratory of Intelligent Green Vehicle and Mobility](https://www.ase.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). My doctoral research topic is " Research on Learning-Based Powertrain Optimization and Energy-Saving Control Methods for Fuel Cell Commercial Vehicles".
+I received my Ph.D. in June 2026 from the [School of Vehicle and Mobility](https://www.svm.tsinghua.edu.cn/) and the [State Key Laboratory of Intelligent Green Vehicle and Mobility](https://www.ase.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). My doctoral research topic is "Research on Learning-Based Powertrain Optimization and Energy-Saving Control Methods for Fuel Cell Commercial Vehicles".
 
 My research interests include the design and application of reinforcement learning (RL) algorithms, the development and optimization of advanced driver assistance systems (ADAS) and energy management strategies (EMSs) for new energy vehicles, and the control of distributed energy storage systems.
 
