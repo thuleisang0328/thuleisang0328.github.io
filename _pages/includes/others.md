@@ -1,5 +1,5 @@
 # 📚 Reviewers
-Independent reviewer for 48 SCI-indexed journals.
+Independent reviewer for 49 SCI-indexed journals.
 - Journal, *eTransportation*, (JCR Q1, IF=17.0)
 - Journal, *Renewable and Sustainable Energy Reviews*, (JCR Q1, IF=16.3)
 - Journal, *Applied Energy*, (JCR Q1, IF=12.0)
@@ -39,6 +39,7 @@ Independent reviewer for 48 SCI-indexed journals.
 - Journal, *Vehicles*, (JCR Q2, IF=3.2)
 - Journal, *Current Bioinformatics*, (JCR Q2, IF=2.9)
 - Journal, *Applied Sciences*, (JCR Q2, IF=2.9)
+- Journal, *Electronics*, (JCR Q2, IF=2.9)
 - Journal, *International Journal of Data Science and Analytics*, (JCR Q2, IF=2.8)
 - Journal, *PLoS One*, (JCR Q2, IF=2.6)
 - Journal, *Symmetry*, (JCR Q2, IF=2.2)
